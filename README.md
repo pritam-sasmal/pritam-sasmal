@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam-sasmal" alt="pritam-sasmal" /></a> </p>
 
-- 🔭 I’m currently Studying at **Chitkara University**
-
-- 🌱 I’m currently learning **Full-Stack Development**
-
-- 👯 I’m looking to collaborate on **Chitkara University**
+- 🔭 I’m Studying at **Chitkara University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
